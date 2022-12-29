@@ -10,6 +10,6 @@ $${\underset{\lambda} \max \underset{\pi} \min \ \mathbb{E}[\ \underset{t=0}{\ov
     where D is a Discriminator Network (Policy as a Generator), and d is a constant at about 0.4~0.7
 
 - Result(Score) for D4RL halfcheetah-medium
-![alt text](https://github.com/brianlsy98/MB_OfflineRL_GAN/blob/main/IS_project_picture.png?raw=true)
+![alt text](https://github.com/brianlsy98/MB_OfflineRL_GAN/blob/main/MB_OfflineRL_GAN.png?raw=true)
 
 - Description Video (Korean) Link : https://youtu.be/5AcFcyXfCNg
